@@ -8,7 +8,8 @@ It allows users to enter their birth date and instantly calculates their age.
 - Simple and responsive design
 - Lightweight and fast
 
-# Screenshots
+# Screenshot
+[Screenshot ] (Screenshot.png)
 
 
 # Live Demo

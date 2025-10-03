@@ -12,7 +12,7 @@ It allows users to enter their birth date and instantly calculates their age.
 
 
 # Live Demo
-
+[Try it here] (https://subhisharma409.github.io/Age-Calculator/)
 
 # Technologies used
 - HTML

@@ -1,21 +1,21 @@
-# Age-Calculator
+# 🧮Age-Calculator
 A simple web based **Age Calculator** built with HTML , CSS , JavaScript .
 It allows users to enter their birth date and instantly calculates their age.
 
-# Features
-- Input birth date with date picker.
-- Calculates age in years
-- Simple and responsive design
-- Lightweight and fast
+# 🚀Features
+- 📅Input birth date with date picker.
+- 🗓️Calculates age in years
+- 🎨Simple and responsive design
+- ⚡Lightweight and fast
 
-# Screenshot
+# 📸Screenshot
 [Screenshot ] (https://github.com/subhisharma409/Age-Calculator/blob/main/Screenshot.png?raw=true)
 
 
-# Live Demo
+# 🔗Live Demo
 [Try it here] (https://subhisharma409.github.io/Age-Calculator/)
 
-# Technologies used
+# ⚒️Technologies used
 - HTML
 - CSS
 - JavaScript

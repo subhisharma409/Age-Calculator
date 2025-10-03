@@ -9,7 +9,7 @@ It allows users to enter their birth date and instantly calculates their age.
 - ⚡Lightweight and fast
 
 # 📸Screenshot
-[Screenshot ] (https://github.com/subhisharma409/Age-Calculator/blob/main/Screenshot.png?raw=true)
+[Screenshot ] (Screenshot.png)
 
 
 # 🔗Live Demo
